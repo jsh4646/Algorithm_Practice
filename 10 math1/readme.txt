@@ -1,4 +1,4 @@
-9.math1
+10.math1
  └ (四則演算) ACM호텔.java - https://www.acmicpc.net/problem/10250
  └ (貪欲法) FlyMeToTheAlphaCentauri.java - https://www.acmicpc.net/problem/1011
  └ (二分探索) 달팽이는올라가고싶다.java - https://www.acmicpc.net/problem/2869
